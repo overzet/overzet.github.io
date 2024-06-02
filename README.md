@@ -1,4 +1,7 @@
+![Jan Overzet Logo](/assets/logo.png)
+
 # Jan Overzet
 
-  <h3>This is my portfolio</h3>
-  <p>Top UK YouTube Influencers 2024</p>
+### This is my portfolio
+
+Top UK YouTube Influencers 2024
