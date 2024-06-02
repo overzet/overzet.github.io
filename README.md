@@ -7,8 +7,8 @@ logo: /assets/logo.png  # Ensure you upload your logo to the assets folder in yo
 show_downloads: true
 
 # URL settings
-baseurl: "" # The subpath of your site, e.g. /blog
-url: "https://yourusername.github.io" # Your GitHub Pages URL
+# baseurl: "" # The subpath of your site, e.g. /blog
+url: "https://overzet.github.io" # Your GitHub Pages URL
 
 # Theme settings
 remote_theme: pages-themes/cayman@v0.2.0
